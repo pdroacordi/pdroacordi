@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Pedro Acordi
 
 💻 Software Engineer | Backend & Systems Architecture <br/>
+🏢 Currently working at PicPay Bank <br/>
 📊 Researcher in Machine Learning & Computer Vision <br/>
 🏋️ Passionate about Science, Technology & Performance <br/>
 
